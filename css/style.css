@@ -1,28 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
 * {
   margin: 0;
   padding: 0px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Varela Round', sans-serif;
 }
 
 body {
-  background: #fff;
+  background: #5F3DB9;
   margin: 0;
-  color: #444;
+  color: #5F3DB9;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Varela Round', sans-serif;
   font-weight: 700;
 }
 
 p {
   padding: 0;
   margin-bottom: 12px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Varela Round', sans-serif;
   font-weight: 300;
   font-size: 20px;
   line-height: 30px;
-  color: #5F3DB9;
+  color: #fff;
   margin-top: 10px;
 }
 
@@ -165,7 +167,7 @@ a:hover, a:focus {
 /* HEADER CONFIGURATION */
 
 #header {
-  background: #f2f9fe;
+  background: #5F3DB9;
   padding-top: 80px;
   padding-bottom: 80px;
   margin-bottom: 50px;
@@ -179,7 +181,7 @@ a:hover, a:focus {
 }
 
 #header h3 {
-  color: #ccc;
+  color: #fff;
   font-weight: 400;
   font-size: 28px;
 }
